@@ -116,7 +116,7 @@ sections:
           placeholder: Texte
           width: full
           isRequired: false
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Soumettre
       styles:
         submitLabel:
           textAlign: center
