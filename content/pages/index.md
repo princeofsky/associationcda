@@ -84,7 +84,7 @@ sections:
         - name: firstName
           label: First Name
           hideLabel: true
-          placeholder: First Name
+          placeholder: Prénom
           isRequired: true
           width: 1/2
           type: TextFormControl
