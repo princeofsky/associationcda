@@ -113,7 +113,7 @@ sections:
           name: Texte
           label: Name
           hideLabel: false
-          placeholder: Your name
+          placeholder: Texte
           width: full
           isRequired: false
       submitLabel: "Submit \U0001F680"
