@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: 'Association pour la création d''idées audiovisuelles – Hauts de France '
     subtitle: ''
     styles:
