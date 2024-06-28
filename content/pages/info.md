@@ -104,10 +104,4 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
 ---
