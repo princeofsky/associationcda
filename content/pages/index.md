@@ -105,7 +105,7 @@ sections:
         - name: address
           label: Address
           hideLabel: true
-          placeholder: Address
+          placeholder: Addresse
           isRequired: true
           width: 1/2
           type: TextFormControl
