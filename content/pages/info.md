@@ -66,7 +66,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/egide20logo_0.png
+        url: /images/egide.jpg
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
