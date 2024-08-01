@@ -51,7 +51,7 @@ sections:
     actions:
       - type: Link
         label: Voir nos vidéos
-        url: /projects
+        url: 'https://www.dailymotion.com/cdafilms'
     showDate: false
     showDescription: true
     showFeaturedImage: true
