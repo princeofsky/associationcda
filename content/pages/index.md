@@ -203,7 +203,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: MediaGallerySection
-    title: 'Ils nous ont fait confiance :'
+    title: Ils nous ont fait confiance
     subtitle: ''
     images:
       - type: ImageBlock
