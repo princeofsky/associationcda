@@ -1,0 +1,104 @@
+{
+    "model": "MediaGallerySection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Ils nous ont fait confiance :",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "media"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Ils nous ont fait confiance :",
+                "subtitle": "",
+                "images": [
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/lille-comics-festival.jpg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Logo one",
+                        "caption": "Logo one",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/egide20logo_0.png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Logo two",
+                        "caption": "Logo two",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/iae.jpg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Logo five",
+                        "caption": "Logo five",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/sida-info-service-sis-19d0bf28197647d5abee605f02de7595.png",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Logo three",
+                        "caption": "Logo three",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "ImageBlock",
+                        "url": {
+                            "$$ref": "stackbit_asset_id:static:public/images/logo-maison-quartier-wazemmes-lille-mqw.jpg",
+                            "$$type": "__asset_model"
+                        },
+                        "altText": "Logo four",
+                        "caption": "Logo four",
+                        "elementId": null
+                    }
+                ],
+                "colors": "colors-f",
+                "spacing": 3,
+                "columns": 5,
+                "aspectRatio": "auto",
+                "showCaption": false,
+                "enableHover": false,
+                "elementId": null,
+                "styles": {
+                    "self": {
+                        "width": "wide",
+                        "height": "auto",
+                        "padding": [
+                            "pt-8",
+                            "pb-8",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "justifyContent": "center",
+                        "borderRadius": "none",
+                        "borderWidth": 0,
+                        "borderStyle": "none",
+                        "borderColor": "border-dark"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "subtitle": {
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/media-gallery-section-ils-nous-ont-fait-confiance-:-2172.png"
+        }
+    ]
+}
