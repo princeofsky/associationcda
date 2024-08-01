@@ -84,7 +84,7 @@ sections:
         justifyContent: flex-end
     subtitle: Projets
   - type: MediaGallerySection
-    title: Gallery
+    title: Ils nous ont fait confiance
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
