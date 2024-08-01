@@ -206,7 +206,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/egide.jpg
+        url: /images/egide20logo_0.png
         altText: Image one
         caption: Image one caption
         elementId: ''
