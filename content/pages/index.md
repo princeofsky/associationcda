@@ -207,12 +207,45 @@ sections:
     variant: variant-a
     title: Production vidéo
     text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      <div class="wp-block-columns alignwide has-3-columns is-layout-flex
+      wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+
+      <div class="wp-block-column is-layout-flow
+      wp-block-column-is-layout-flow">
+
+
+      <p class="has-text-align-left has-small-font-size">Films événementiels, 
+      vidéos corporates, teaser, after-movies, portraits, documentaires,
+      télévision…</p>
+
+      </div>
+
+
+      <div class="wp-block-column is-layout-flow
+      wp-block-column-is-layout-flow">
+
+      <h3 class="has-text-align-left wp-block-heading">Prestations
+      techniques</h3>
+
+
+      <p class="has-text-align-left has-small-font-size">Tournage, montage, post
+      production, finitions, sous-titrage, …</p>
+
+      </div>
+
+
+      <div class="wp-block-column is-layout-flow
+      wp-block-column-is-layout-flow">
+
+      <h3 class="has-text-align-left wp-block-heading">Captations</h3>
+
+
+      <p class="has-text-align-left has-small-font-size">Captation de concerts,
+      spectacles, conférences, podcasting…</p>
+
+      </div>
+
+      </div>
     elementId: ''
     styles:
       self:
