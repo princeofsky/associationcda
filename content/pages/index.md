@@ -179,16 +179,7 @@ sections:
       150w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=300&h=176
       300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure> </ul>
-    actions:
-      - type: Button
-        label: Try it now
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
