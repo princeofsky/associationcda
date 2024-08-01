@@ -49,8 +49,6 @@ sections:
       spectacles, conférences, podcasting…</p>
 
       </div>
-
-      </div>
     styles:
       self:
         height: auto
