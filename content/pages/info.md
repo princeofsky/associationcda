@@ -109,7 +109,7 @@ sections:
         url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
         altText: Logo four
         caption: Logo four
-    spacing: 3
+    spacing: 157
     columns: 5
     aspectRatio: auto
     showCaption: false
