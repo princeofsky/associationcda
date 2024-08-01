@@ -50,7 +50,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: Voir les projets
+        label: Voir nos vidéos
         url: /projects
     showDate: false
     showDescription: true
