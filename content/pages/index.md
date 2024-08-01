@@ -48,11 +48,8 @@ sections:
   - type: CtaSection
     title: ''
     text: >
-      [![](/images/arthurgrummiaux01-3.jpg){ width:150px,height:150px
-      }](https://vimeo.com/32133617)
-
-      <img src="/images/arthurgrummiaux01-3.jpg" alt="alt text"
-      link="https://vimeo.com/32133617" title="image Title" width="150"/>
+      <img src="/images/arthurgrummiaux01-3.jpg" alt=""
+      link="https://vimeo.com/32133617" width="200"/>
     actions:
       - type: Button
         label: Try it now
