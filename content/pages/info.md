@@ -13,14 +13,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      <div class="wp-block-columns alignwide has-3-columns is-layout-flex
-      wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
-
-
-      \<div class="wp-block-column is-layout-flow
+      <div class="wp-block-column is-layout-flow
       wp-block-column-is-layout-flow">
 
-      \<h3 class="has-text-align-left wp-block-heading">Production Vidéo\</h3>
+      <h3 class="has-text-align-left wp-block-heading">Production Vidéo</h3>
 
 
       <p class="has-text-align-left has-small-font-size">Films événementiels, 
