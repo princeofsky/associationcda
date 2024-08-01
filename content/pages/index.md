@@ -47,7 +47,7 @@ sections:
       aspectRatio: '16:9'
   - type: CtaSection
     title: Nos réalisations
-    text: >+
+    text: >
       <ul class="wp-block-gallery columns-3 is-cropped"><figure><a
       href="https://vimeo.com/32133617"><img data-attachment-id="63"
       data-permalink="https://associationcda.wordpress.com/arthurgrummiaux01-4/"
@@ -95,7 +95,7 @@ sections:
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=768&h=433
       768w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=1024&h=577
-      1024w" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure> <figure><a
+      1024w" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure><figure><a
       href="https://vimeo.com/3898689"><img data-attachment-id="61"
       data-permalink="https://associationcda.wordpress.com/xavieraucompte01/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg"
@@ -118,7 +118,7 @@ sections:
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=768&h=462
       768w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=1024&h=616
-      1024w" sizes="(max-width: 1799px) 100vw, 1799px"></a></figure> <figure><a
+      1024w" sizes="(max-width: 1799px) 100vw, 1799px"></a></figure><figure><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img
       data-attachment-id="67"
       data-permalink="https://associationcda.wordpress.com/artsenique01/"
@@ -179,7 +179,6 @@ sections:
       150w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=300&h=176
       300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure> </ul>
-
     actions:
       - type: Button
         label: Try it now
