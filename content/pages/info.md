@@ -102,13 +102,13 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
         url: /images/iae.jpg
         altText: Logo five
         caption: Logo five
+      - type: ImageBlock
+        url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
+        altText: Logo four
+        caption: Logo four
     spacing: 3
     columns: 5
     aspectRatio: auto
