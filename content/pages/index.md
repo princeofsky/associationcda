@@ -47,19 +47,14 @@ sections:
       aspectRatio: '16:9'
   - type: CtaSection
     title: Nos réalisations
-    text: >-
-      <a href="https://vimeo.com/32133617"><img
-      src="/images/arthurgrummiaux01-3.jpg" alt=""
-      data-link="https://vimeo.com/32133617" width="200"/>
-
-
+    text: >
       <ul class="wp-block-gallery columns-3 is-cropped"><li
-      class="blocks-gallery-item"><figure><a
-      href="https://vimeo.com/32133617"><img data-attachment-id="63"
+      class="blocks-gallery-item"><a href="https://vimeo.com/32133617"><img
+      data-attachment-id="63"
       data-permalink="https://associationcda.wordpress.com/arthurgrummiaux01-4/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg"
       data-orig-size="2560,1440" data-comments-opened="1"
-      data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}"
+      data-image-meta="{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}"
       data-image-title="arthurgrummiaux01-4" data-image-description=""
       data-image-caption=""
       data-medium-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=300"
@@ -70,13 +65,13 @@ sections:
       class="wp-image-63"
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg
       2560w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=150&amp;h=84
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=150&h=84
       150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=300&amp;h=169
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=300&h=169
       300w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=768&amp;h=432
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=768&h=432
       768w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=1024&amp;h=576
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=1024&h=576
       1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure></li><li
       class="blocks-gallery-item"><figure><a
       href="https://www.youtube.com/watch?v=3xrVkK24kgE"><img
@@ -84,7 +79,7 @@ sections:
       data-permalink="https://associationcda.wordpress.com/isea01/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg"
       data-orig-size="1464,825" data-comments-opened="1"
-      data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}"
+      data-image-meta="{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}"
       data-image-title="isea01" data-image-description="" data-image-caption=""
       data-medium-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=300"
       data-large-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=640"
@@ -95,20 +90,20 @@ sections:
       class="wp-image-62"
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg
       1464w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=150&amp;h=85
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=150&h=85
       150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=300&amp;h=169
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=300&h=169
       300w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=768&amp;h=433
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=768&h=433
       768w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=1024&amp;h=577
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=1024&h=577
       1024w" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure></li><li
       class="blocks-gallery-item"><figure><a
       href="https://vimeo.com/3898689"><img data-attachment-id="61"
       data-permalink="https://associationcda.wordpress.com/xavieraucompte01/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg"
       data-orig-size="1799,1082" data-comments-opened="1"
-      data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}"
+      data-image-meta="{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}"
       data-image-title="xavieraucompte01" data-image-description=""
       data-image-caption=""
       data-medium-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=300"
@@ -119,13 +114,13 @@ sections:
       class="wp-image-61"
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg
       1799w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=150&amp;h=90
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=150&h=90
       150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=300&amp;h=180
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=300&h=180
       300w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=768&amp;h=462
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=768&h=462
       768w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=1024&amp;h=616
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=1024&h=616
       1024w" sizes="(max-width: 1799px) 100vw, 1799px"></a></figure></li><li
       class="blocks-gallery-item"><figure><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img
@@ -133,7 +128,7 @@ sections:
       data-permalink="https://associationcda.wordpress.com/artsenique01/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg"
       data-orig-size="599,352" data-comments-opened="1"
-      data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}"
+      data-image-meta="{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}"
       data-image-title="artsenique01" data-image-description=""
       data-image-caption=""
       data-medium-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg?w=300"
@@ -144,9 +139,9 @@ sections:
       class="wp-image-67"
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg
       599w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg?w=150&amp;h=88
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg?w=150&h=88
       150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg?w=300&amp;h=176
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg?w=300&h=176
       300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure></li><li
       class="blocks-gallery-item"><figure><a
       href="https://www.dailymotion.com/video/x15rnh3"><img
@@ -154,7 +149,7 @@ sections:
       data-permalink="https://associationcda.wordpress.com/flamenco01/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg"
       data-orig-size="599,352" data-comments-opened="1"
-      data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}"
+      data-image-meta="{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}"
       data-image-title="flamenco01" data-image-description=""
       data-image-caption=""
       data-medium-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg?w=300"
@@ -165,9 +160,9 @@ sections:
       class="wp-image-66"
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg
       599w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg?w=150&amp;h=88
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg?w=150&h=88
       150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg?w=300&amp;h=176
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg?w=300&h=176
       300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure></li><li
       class="blocks-gallery-item"><figure><a
       href="https://www.dailymotion.com/video/xj0spx"><img
@@ -175,7 +170,7 @@ sections:
       data-permalink="https://associationcda.wordpress.com/forum2008/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg"
       data-orig-size="599,352" data-comments-opened="1"
-      data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}"
+      data-image-meta="{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"1"}"
       data-image-title="forum2008" data-image-description=""
       data-image-caption=""
       data-medium-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=300"
@@ -186,9 +181,9 @@ sections:
       class="wp-image-65"
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg
       599w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=150&amp;h=88
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=150&h=88
       150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=300&amp;h=176
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=300&h=176
       300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure></li></ul>
     actions:
       - type: Button
