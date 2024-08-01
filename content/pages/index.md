@@ -47,8 +47,9 @@ sections:
       aspectRatio: '16:9'
   - type: CtaSection
     title: ''
-    text: |
-      [![](/images/arthurgrummiaux01-3.jpg)](https://vimeo.com/32133617)
+    text: >
+      [![](/images/arthurgrummiaux01-3.jpg){ width=150px,height:150px
+      }](https://vimeo.com/32133617)
     actions:
       - type: Button
         label: Try it now
