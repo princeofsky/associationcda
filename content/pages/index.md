@@ -207,51 +207,49 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
+        url: /images/lille-comics-festival.jpg
+        altText: Logo one
+        caption: Logo one
+      - type: ImageBlock
         url: /images/egide20logo_0.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
+        altText: Logo two
+        caption: Logo two
       - type: ImageBlock
         url: /images/iae.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
+        altText: Logo five
+        caption: Logo five
       - type: ImageBlock
-        url: /images/lille-comics-festival.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sida-info-service-sis-19d0bf28197647d5abee605f02de7595.webp
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
+        url: /images/sida-info-service-sis-19d0bf28197647d5abee605f02de7595.png
+        altText: Logo three
+        caption: Logo three
       - type: ImageBlock
         url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
+        altText: Logo four
+        caption: Logo four
     colors: colors-f
-    spacing: 16
+    spacing: 160
     columns: 5
     aspectRatio: auto
     showCaption: false
-    enableHover: true
-    elementId: ''
+    enableHover: false
     styles:
       self:
+        width: wide
         height: auto
-        width: full
         padding:
-          - pt-12
-          - pb-12
+          - pt-8
+          - pb-8
           - pl-4
           - pr-4
         justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
       title:
-        textAlign: center
+        textAlign: left
       subtitle:
-        textAlign: center
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full

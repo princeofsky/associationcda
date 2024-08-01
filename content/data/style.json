@@ -16,10 +16,10 @@
         "weight": "medium",
         "decoration": "none",
         "case": "uppercase",
-        "letterSpacing": "normal"
+        "letterSpacing": "wide"
     },
     "h2": {
-        "size": "5xl",
+        "size": "3xl",
         "weight": "normal",
         "decoration": "none",
         "case": "uppercase",
