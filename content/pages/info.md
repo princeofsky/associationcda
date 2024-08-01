@@ -98,13 +98,13 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/sida-info-service-sis-19d0bf28197647d5abee605f02de7595.png
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
         url: /images/iae.jpg
         altText: Logo five
         caption: Logo five
+      - type: ImageBlock
+        url: /images/sida-info-service-sis-19d0bf28197647d5abee605f02de7595.png
+        altText: Logo three
+        caption: Logo three
       - type: ImageBlock
         url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
         altText: Logo four
