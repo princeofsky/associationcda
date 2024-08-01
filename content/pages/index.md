@@ -48,7 +48,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |
-      ![https://vimeo.com/32133617](/images/arthurgrummiaux01-3.jpg)
+      [![](/images/arthurgrummiaux01-3.jpg)](https://vimeo.com/32133617)
     actions:
       - type: Button
         label: Try it now
