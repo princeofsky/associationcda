@@ -207,56 +207,6 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/egide20logo_0.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/iae.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/lille-comics-festival.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/sida-info-service-sis-19d0bf28197647d5abee605f02de7595.webp
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
-        altText: altText of the image
-        caption: Caption of the image
-        elementId: ''
-    colors: colors-f
-    spacing: 121
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: true
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: MediaGallerySection
-    title: Ils nous ont fait confiance
-    subtitle: ''
-    images:
-      - type: ImageBlock
         url: /images/lille-comics-festival.jpg
         altText: Logo one
         caption: Logo one
