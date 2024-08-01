@@ -87,7 +87,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'Ils nous ont fait confiance :'
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/lille-comics-festival.jpg
