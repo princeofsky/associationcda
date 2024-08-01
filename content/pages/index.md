@@ -205,7 +205,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Production vidéo
+    title: ''
     text: >-
       <div class="wp-block-columns alignwide has-3-columns is-layout-flex
       wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
