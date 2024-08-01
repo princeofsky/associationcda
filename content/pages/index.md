@@ -47,9 +47,8 @@ sections:
       aspectRatio: '16:9'
   - type: CtaSection
     title: ''
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      ![](/images/arthurgrummiaux01-3.jpg)
     actions:
       - type: Button
         label: Try it now
