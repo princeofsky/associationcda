@@ -17,6 +17,16 @@
                 "type": "Link",
                 "label": "Projets",
                 "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://www.dailymotion.com/cdafilms",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
