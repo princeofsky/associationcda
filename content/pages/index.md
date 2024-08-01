@@ -232,7 +232,7 @@ sections:
         caption: Caption of the image
         elementId: ''
     colors: colors-f
-    spacing: 16
+    spacing: 56
     columns: 5
     aspectRatio: auto
     showCaption: false
