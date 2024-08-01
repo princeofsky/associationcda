@@ -277,7 +277,7 @@ sections:
         altText: Logo four
         caption: Logo four
     colors: colors-f
-    spacing: 101
+    spacing: 160
     columns: 5
     aspectRatio: auto
     showCaption: false
