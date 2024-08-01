@@ -48,9 +48,8 @@ sections:
   - type: CtaSection
     title: Nos réalisations
     text: >
-      <ul class="wp-block-gallery columns-3 is-cropped"><li
-      class="blocks-gallery-item"><a href="https://vimeo.com/32133617"><img
-      data-attachment-id="63"
+      <ul class="wp-block-gallery columns-3 is-cropped"><figure><a
+      href="https://vimeo.com/32133617"><img data-attachment-id="63"
       data-permalink="https://associationcda.wordpress.com/arthurgrummiaux01-4/"
       data-orig-file="https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg"
       data-orig-size="2560,1440" data-comments-opened="1"
