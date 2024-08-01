@@ -12,10 +12,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
-      ###### \<div class="wp-block-columns alignwide has-3-columns
-      is-layout-flex wp-container-core-columns-is-layout-1
-      wp-block-columns-is-layout-flex">
+    text: >
+      <div class="wp-block-columns alignwide has-3-columns is-layout-flex
+      wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+
 
       \<div class="wp-block-column is-layout-flow
       wp-block-column-is-layout-flow">
@@ -55,7 +55,6 @@ sections:
       </div>
 
       </div>
-
     media:
       type: ImageBlock
       url: /images/about.jpg
