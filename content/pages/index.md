@@ -50,6 +50,9 @@ sections:
     text: >
       [![](/images/arthurgrummiaux01-3.jpg){ width:150px,height:150px
       }](https://vimeo.com/32133617)
+
+      <img src="/images/arthurgrummiaux01-3.jpg" alt="alt text"
+      link="https://vimeo.com/32133617" title="image Title" width="150"/>
     actions:
       - type: Button
         label: Try it now
