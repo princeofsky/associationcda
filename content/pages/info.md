@@ -132,4 +132,5 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+    title: 'Ils nous ont fait confiance :'
 ---
