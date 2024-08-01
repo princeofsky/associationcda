@@ -46,7 +46,7 @@ sections:
       controls: true
       aspectRatio: '16:9'
   - type: CtaSection
-    title: Let's do this
+    title: ''
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
