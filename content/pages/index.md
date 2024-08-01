@@ -46,7 +46,7 @@ sections:
       controls: true
       aspectRatio: '16:9'
   - type: CtaSection
-    title: ''
+    title: Nos réalisations
     text: >-
       <a href="https://vimeo.com/32133617"><img
       src="/images/arthurgrummiaux01-3.jpg" alt=""
