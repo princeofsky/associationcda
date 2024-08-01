@@ -221,7 +221,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/sida-info-service-sis-19d0bf28197647d5abee605f02de7595.webp
         altText: Image four
         caption: Image four caption
         elementId: ''
