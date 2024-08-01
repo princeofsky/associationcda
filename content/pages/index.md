@@ -49,8 +49,7 @@ sections:
     title: ''
     text: >
       <img src="/images/arthurgrummiaux01-3.jpg" alt=""
-      href="https://vimeo.com/32133617"
-      width="200"/>(https://vimeo.com/32133617)
+      href="https://vimeo.com/32133617" width="200"/>
     actions:
       - type: Button
         label: Try it now
