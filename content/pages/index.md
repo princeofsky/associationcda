@@ -71,8 +71,7 @@ sections:
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=768&h=432
       768w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=1024&h=576
-      1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure></li><li
-      class="blocks-gallery-item"><figure><a
+      1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure> <figure><a
       href="https://www.youtube.com/watch?v=3xrVkK24kgE"><img
       data-attachment-id="62"
       data-permalink="https://associationcda.wordpress.com/isea01/"
