@@ -85,7 +85,7 @@ sections:
     subtitle: Projets
   - type: MediaGallerySection
     title: Ils nous ont fait confiance
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
