@@ -37,7 +37,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Vidéomaton du Festival BD
+      title: Vidéo de promotion pour O'Tacos
       url: 'https://www.youtube.com/watch?v=HZNN1_3pPZQ'
       elementId: ''
       autoplay: false
