@@ -38,8 +38,8 @@ sections:
       techniques</h3>
 
 
-      <p class="has-text-align-left has-small-font-size">Tournage, montage, post
-      production, finitions, sous-titrage, …</p>
+      <p class="has-text-align-left has-small-font-size">Tournage, montage,
+      postproduction, finitions, sous-titrage, …</p>
 
       </div>
 
