@@ -37,13 +37,13 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Vidéomaton du Festival BD
-      url: 'https://vimeo.com/113610705'
+      title: Vidéo de promotion pour O'Tacos
+      url: 'https://www.youtube.com/watch?v=HZNN1_3pPZQ'
       elementId: ''
       autoplay: false
       loop: false
       muted: false
-      controls: true
+      controls: false
       aspectRatio: '16:9'
     text: ''
   - type: CtaSection
