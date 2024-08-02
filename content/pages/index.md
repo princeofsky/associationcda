@@ -48,7 +48,7 @@ sections:
     text: ''
   - type: CtaSection
     title: Nos réalisations
-    text: >
+    text: >+
       <ul class="wp-block-gallery columns-3 is-cropped"><figure><a
       href="https://vimeo.com/32133617"><img data-attachment-id="63"
       data-permalink="https://associationcda.wordpress.com/arthurgrummiaux01-4/"
@@ -72,7 +72,7 @@ sections:
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=768&h=432
       768w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=1024&h=576
-      1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure> <figure><a
+      1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure><figure><a
       href="https://www.youtube.com/watch?v=3xrVkK24kgE"><img
       data-attachment-id="62"
       data-permalink="https://associationcda.wordpress.com/isea01/"
@@ -180,6 +180,7 @@ sections:
       150w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=300&h=176
       300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure> </ul>
+
     actions: []
     colors: colors-f
     backgroundSize: full
