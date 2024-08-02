@@ -38,7 +38,7 @@ sections:
     media:
       type: VideoBlock
       title: Vidéomaton du Festival BD
-      url: 'http://associatkg.cluster014.ovh.net/images/OTacos_Maastricht.mp4'
+      url: associatkg.cluster014.ovh.net/images/OTacos_Maastricht.webm
       elementId: ''
       autoplay: false
       loop: false
