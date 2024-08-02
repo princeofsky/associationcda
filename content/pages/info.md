@@ -12,7 +12,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
+    text: >+
+      L'association CDA est une association lilloise dont l'objet est la
+      création, la mise en œuvre et la production d'œuvres culturelles et plus
+      précisément d'œuvres audiovisuelles.
+
+
       <div class="wp-block-column is-layout-flow
       wp-block-column-is-layout-flow">
 
@@ -49,6 +54,7 @@ sections:
       spectacles, conférences, podcasting…</p>
 
       </div>
+
     styles:
       self:
         height: auto
