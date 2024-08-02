@@ -121,7 +121,7 @@ sections:
         caption: Caption of the image
         elementId: ''
     spacing: 130
-    columns: 5
+    columns: 6
     aspectRatio: auto
     showCaption: false
     enableHover: false
