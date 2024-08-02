@@ -92,7 +92,7 @@ sections:
       1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure><figure><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img width="599"
       height="352"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg"
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg"
       alt=""
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg
       599w,
