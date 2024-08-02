@@ -78,7 +78,7 @@ sections:
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=1024&h=577
       1024w" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure><figure><a
       href="https://vimeo.com/3898689"><img width="2560" height="1440"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg"
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01-4170557285-e1722580670789.jpg"
       alt=""
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg
       2560w,
