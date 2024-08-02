@@ -57,8 +57,8 @@ sections:
       height="825"
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg"
       alt="" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure><figure><a
-      href="https://vimeo.com/3898689"><img width="2560" height="1440"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01-4170557285-e1722580670789.jpg"
+      href="https://dai.ly/x7gxzlp"><img width="2560" height="1440"
+      src="https://associationcda.wordpress.com/wp-content/uploads/2024/08/costax240-2010823314-e1722596686526.jpg"
       alt="" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure><figure><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img width="599"
       height="352"
