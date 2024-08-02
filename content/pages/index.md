@@ -43,7 +43,7 @@ sections:
       autoplay: false
       loop: false
       muted: false
-      controls: false
+      controls: true
       aspectRatio: '16:9'
     text: ''
   - type: CtaSection
@@ -52,74 +52,26 @@ sections:
       <ul class="wp-block-gallery columns-3 is-cropped"><figure><a
       href="https://vimeo.com/32133617"><img width="2560" height="1440"
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg"
-      alt=""
-      srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg
-      2560w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=150&h=84
-      150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=300&h=169
-      300w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=768&h=432
-      768w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/arthurgrummiaux01-4.jpg?w=1024&h=576
-      1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure><figure><a
+      alt="" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure><figure><a
       href="https://www.youtube.com/watch?v=3xrVkK24kgE"><img width="1464"
       height="825"
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg"
-      alt=""
-      srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg
-      1464w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=150&h=85
-      150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=300&h=169
-      300w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=768&h=433
-      768w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=1024&h=577
-      1024w" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure><figure><a
-      href="https://vimeo.com/3898689"><img width="2560" height="1440"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01-4170557285-e1722580670789.jpg"
-      alt=""
-      srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg
-      2560w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=150&h=84
-      150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=300&h=169
-      300w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=768&h=432
-      768w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=1024&h=576
-      1024w" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure><figure><a
+      alt="" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure><figure><a
+      href="https://dai.ly/x7gxzlp"><img width="2560" height="1440"
+      src="https://associationcda.wordpress.com/wp-content/uploads/2024/08/costax240-2010823314-e1722596686526.jpg"
+      alt="" sizes="(max-width: 2560px) 100vw, 2560px"></a></figure><figure><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img width="599"
       height="352"
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg"
-      alt=""
-      srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg
-      599w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg?w=150&h=88
-      150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg?w=300&h=176
-      300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure> <figure><a
+      alt="" sizes="(max-width: 599px) 100vw, 599px"></a></figure> <figure><a
       href="https://www.dailymotion.com/video/x15rnh3"><img width="599"
       height="352"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg"
-      alt=""
-      srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg
-      599w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg?w=150&h=88
-      150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg?w=300&h=176
-      300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure> <figure><a
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01-3921630733-e1722595989316.jpg"
+      alt="" sizes="(max-width: 599px) 100vw, 599px"></a></figure> <figure><a
       href="https://www.dailymotion.com/video/xj0spx"><img width="599"
       height="352"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg"
-      alt=""
-      srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg
-      599w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=150&h=88
-      150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg?w=300&h=176
-      300w" sizes="(max-width: 599px) 100vw, 599px"></a></figure> </ul>
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008-135064524-e1722596069568.jpg"
+      alt="" sizes="(max-width: 599px) 100vw, 599px"></a></figure> </ul>
     actions: []
     colors: colors-f
     backgroundSize: full
@@ -166,9 +118,14 @@ sections:
         url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
         altText: Logo four
         caption: Logo four
+      - type: ImageBlock
+        url: /images/UJDhfkBn_400x400.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     colors: colors-f
-    spacing: 160
-    columns: 5
+    spacing: 132
+    columns: 6
     aspectRatio: auto
     showCaption: false
     enableHover: false
