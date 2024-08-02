@@ -12,7 +12,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
+    text: >+
+      L'association CDA est une association lilloise dont l'objet est la
+      création, la mise en œuvre et la production d'œuvres culturelles et plus
+      précisément d'œuvres audiovisuelles.
+
+
       <div class="wp-block-column is-layout-flow
       wp-block-column-is-layout-flow">
 
@@ -20,8 +25,8 @@ sections:
 
 
       <p class="has-text-align-left has-small-font-size">Films événementiels, 
-      vidéos corporates, teaser, after-movies, portraits, documentaires,
-      télévision…</p>
+      vidéos corporates, teasers, after-movies, portraits, reportages,
+      documentaires…</p>
 
       </div>
 
@@ -33,8 +38,8 @@ sections:
       techniques</h3>
 
 
-      <p class="has-text-align-left has-small-font-size">Tournage, montage, post
-      production, finitions, sous-titrage, …</p>
+      <p class="has-text-align-left has-small-font-size">Tournage, montage,
+      postproduction, finitions, sous-titrage…</p>
 
       </div>
 
@@ -49,6 +54,7 @@ sections:
       spectacles, conférences, podcasting…</p>
 
       </div>
+
     styles:
       self:
         height: auto
@@ -109,8 +115,13 @@ sections:
         url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
         altText: Logo four
         caption: Logo four
-    spacing: 160
-    columns: 5
+      - type: ImageBlock
+        url: /images/UJDhfkBn_400x400.jpg
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
+    spacing: 130
+    columns: 6
     aspectRatio: auto
     showCaption: false
     enableHover: false
