@@ -38,8 +38,7 @@ sections:
     media:
       type: VideoBlock
       title: Vidéomaton du Festival BD
-      url: >-
-        https://www.linkedin.com/posts/association-cda_activity-7225081829861593088-dvke?utm_source=share&utm_medium=member_desktop
+      url: ''
       elementId: ''
       autoplay: false
       loop: false
