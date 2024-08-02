@@ -38,7 +38,8 @@ sections:
     media:
       type: VideoBlock
       title: Vidéomaton du Festival BD
-      url: ''
+      url: >-
+        https://www.dropbox.com/scl/fi/3mzgix2hk07px7wzq0ts4/OTacos_Maastricht.mp4?rlkey=i9blrgv6072vh1inq27oagaqh&st=ezc1p2ab&dl=0
       elementId: ''
       autoplay: false
       loop: false
