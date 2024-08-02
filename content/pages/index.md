@@ -77,7 +77,7 @@ sections:
       768w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/isea01.jpg?w=1024&h=577
       1024w" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure><figure><a
-      href="https://vimeo.com/3898689"><img width="1799" height="1082"
+      href="https://vimeo.com/3898689"><img width="2560" height="1440"
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg"
       alt=""
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg
@@ -89,7 +89,7 @@ sections:
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=768&h=432
       768w,
       https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=1024&h=576
-      1024w" sizes="(max-width: 1799px) 100vw, 1799px"></a></figure><figure><a
+      1024w" sizes="(max-width: 1464px) 100vw, 1464px"></a></figure><figure><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img width="599"
       height="352"
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01.jpg"
