@@ -82,13 +82,13 @@ sections:
       alt=""
       srcset="https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg
       1799w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=150&h=90
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=150&h=84
       150w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=300&h=180
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=300&h=169
       300w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=768&h=462
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=768&h=432
       768w,
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=1024&h=616
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/xavieraucompte01.jpg?w=1024&h=576
       1024w" sizes="(max-width: 1799px) 100vw, 1799px"></a></figure><figure><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img width="599"
       height="352"
