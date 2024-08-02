@@ -115,6 +115,12 @@ sections:
         url: /images/logo-maison-quartier-wazemmes-lille-mqw.jpg
         altText: Logo four
         caption: Logo four
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     spacing: 160
     columns: 5
     aspectRatio: auto
