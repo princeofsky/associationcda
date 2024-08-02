@@ -66,11 +66,11 @@ sections:
       alt="" sizes="(max-width: 599px) 100vw, 599px"></a></figure> <figure><a
       href="https://www.dailymotion.com/video/x15rnh3"><img width="599"
       height="352"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01.jpg"
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/flamenco01-3921630733-e1722595989316.jpg"
       alt="" sizes="(max-width: 599px) 100vw, 599px"></a></figure> <figure><a
       href="https://www.dailymotion.com/video/xj0spx"><img width="599"
       height="352"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008.jpg"
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/forum2008-135064524-e1722596069568.jpg"
       alt="" sizes="(max-width: 599px) 100vw, 599px"></a></figure> </ul>
     actions: []
     colors: colors-f
