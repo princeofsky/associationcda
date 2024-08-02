@@ -38,7 +38,7 @@ sections:
     media:
       type: VideoBlock
       title: Vidéomaton du Festival BD
-      url: 'https://vimeo.com/113610705'
+      url: 'https://dai.ly/k5naHx6CKHHuzUBddg0'
       elementId: ''
       autoplay: false
       loop: false
