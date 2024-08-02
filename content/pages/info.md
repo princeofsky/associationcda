@@ -25,7 +25,7 @@ sections:
 
 
       <p class="has-text-align-left has-small-font-size">Films événementiels, 
-      vidéos corporates, teaser, after-movies, portraits, reportages,
+      vidéos corporates, teasers, after-movies, portraits, reportages,
       documentaires…</p>
 
       </div>
