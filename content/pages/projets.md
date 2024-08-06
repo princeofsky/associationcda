@@ -7,7 +7,7 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >
+    text: >+
       <table frame="">
 
       <tr>
@@ -35,6 +35,26 @@ sections:
 
       <th width="300px">
 
+      <a href="https://vimeo.com/3468563"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
+
+      <td>
+
+      <p>La Machine (2007)</p>
+
+      <p>Réalisation : Remy Hespel, Christophe Miranda, Clément Morelle</p>
+
+      <p>Synopsis : Deux hommes sont jetés violemment dans une pièce et... ça
+      tourne !</p>
+
+      </td>
+
+      </tr>
+
+      <tr>
+
+      <th width="300px">
+
       <a href="https://www.youtube.com/watch?v=hM7zCIdfq6c"><img
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
@@ -53,6 +73,7 @@ sections:
       </tr>
 
       </table>
+
     elementId: ''
     styles:
       self:
