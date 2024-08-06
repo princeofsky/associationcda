@@ -76,7 +76,7 @@ sections:
       <th width="300px">
 
       <a href="https://vimeo.com/3468563"><img
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
+      src="https://associationcda.wordpress.com/wp-content/uploads/2024/08/lamachine02.jpg?w=300"></a></th>
 
       <td>
 
