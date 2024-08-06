@@ -7,21 +7,22 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >+
-      \<table border-width="none">\<tr>\<th width="100px">\<a
-      href="https\://www\.dailymotion.com/video/x5j4z2c">\<img
-      src="https\://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">\</a>\</th>
+    text: >-
+      <table><tr border-width="none"><th width="100px"><a href="
 
-      \<td>\<p>L'art se nique (2009)\</p>
+      https://www.dailymotion.com/video/x5j4z2c"><img
 
-      \<p>Réalisation : Matthieu Jamet\</p>
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
+       src=">
+      <td><p>L'art se nique (2009)</p>
 
-      \<p>Synopsis : Copier, est-ce créer ? Une histoire d'amour qui se raconte
+      <p>Réalisation : Matthieu Jamet</p>
+
+      <p>Synopsis : Copier, est-ce créer ? Une histoire d'amour qui se raconte
       au travers de scènes de films ou de photographies connues, recréées pour
-      l'occasion.\</p>
+      l'occasion.</p>
 
-      \</td>\</tr>\</table>
-
+      </td></tr></table>
     elementId: ''
     styles:
       self:
