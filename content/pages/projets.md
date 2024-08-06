@@ -7,112 +7,127 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >
-      \<table frame="">
+    text: >-
+      <table frame="">
 
-      \<tr>
+      <tr>
 
-      \<th width="300px">
+      <th width="300px">
 
-      \<a href="https\://www\.dailymotion.com/video/k6DlOGRm5RFPio4KmmM">\<img
-      src="https\://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">\</a>\</th>
+      <a href="
 
-      \<td>
+      https://www.dailymotion.com/video/k6DlOGRm5RFPio4KmmM"><img
 
-      \<p>L'art se nique (2009)\</p>
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
 
-      \<p>Réalisation : Matthieu Jamet\</p>
+      https://www.dailymotion.com/video/x5j4z2b"><img
 
-      \<p>Synopsis : Copier, est-ce créer ? Une histoire d'amour qui se raconte
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
+
+      https://www.youtube.com/watch?v=OiK3YefDtVg"><img
+
+      https://associationcda.wordpress.com/wp-content/uploads/2024/08/i-love-red-on-you-court-metrage-2008-hq-3386095374-e1722937722459.jpg?w=300"></a></th
+
+      https://vimeo.com/3468563"><img
+
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
+
+      https://www.youtube.com/watch?v=hM7zCIdfq6c"><img
+
+      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
+       src=">
+      <td>
+
+      <p>L'art se nique (2009)</p>
+
+      <p>Réalisation : Matthieu Jamet</p>
+
+      <p>Synopsis : Copier, est-ce créer ? Une histoire d'amour qui se raconte
       au travers de scènes de films ou de photographies connues, recréées pour
-      l'occasion.\</p>
+      l'occasion.</p>
 
-      \</td>
+      </td>
 
-      \</tr>
+      </tr>
 
-      \<tr>
+      <tr>
 
-      \<th width="300px">
+      <th width="300px">
 
-      \<a href="https\://www\.dailymotion.com/video/x5j4z2b">\<img
-      src="https\://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">\</a>\</th>
+      <a href=" src=">
 
-      \<td>
+      <td>
 
-      \<p>Une Rencontre (2008)\</p>
+      <p>Une Rencontre (2008)</p>
 
-      \<p>Réalisation : Ludovic Dupont\</p>
+      <p>Réalisation : Ludovic Dupont</p>
 
-      \<p>Synopsis : Une fille et un garçon se rencontrent à une soirée. Ils
-      sont attirés l'un par l'autre. Ils discutent et flirtent mais...\</p>
+      <p>Synopsis : Une fille et un garçon se rencontrent à une soirée. Ils sont
+      attirés l'un par l'autre. Ils discutent et flirtent mais...</p>
 
-      \</td>
+      </td>
 
-      \</tr>
+      </tr>
 
-      \<tr>
+      <tr>
 
-      \<th width="300px">
+      <th width="300px">
 
-      \<a href="https\://www\.youtube.com/watch?v=OiK3YefDtVg">\<img
-      src="https\://associationcda.wordpress.com/wp-content/uploads/2024/08/i-love-red-on-you-court-metrage-2008-hq-3386095374-e1722937722459.jpg?w=300">\</a>\</th>
+      <a href=" src=">
 
-      \<td>
+      <td>
 
-      \<p>I Love Red On You (2008)\</p>
+      <p>I Love Red On You (2008)</p>
 
-      \<p>Réalisation : Jean-Baptiste Wattiaux\</p>
+      <p>Réalisation : Jean-Baptiste Wattiaux</p>
 
-      \<p>Synopsis : Court-métrage réalisé dans le cadre d'un concours étudiant
-      sur le thème : "rouge"\</p>
+      <p>Synopsis : Court-métrage réalisé dans le cadre d'un concours étudiant
+      sur le thème : "rouge"</p>
 
-      \</td>
+      </td>
 
-      \</tr>
+      </tr>
 
-      \<tr>
+      <tr>
 
-      \<th width="300px">
+      <th width="300px">
 
-      \<a href="https\://vimeo.com/3468563">\<img
-      src="https\://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">\</a>\</th>
+      <a href=" src=">
 
-      \<td>
+      <td>
 
-      \<p>La Machine (2007)\</p>
+      <p>La Machine (2007)</p>
 
-      \<p>Réalisation : Remy Hespel, Christophe Miranda, Clément Morelle\</p>
+      <p>Réalisation : Remy Hespel, Christophe Miranda, Clément Morelle</p>
 
-      \<p>Synopsis : Deux hommes sont jetés violemment dans une pièce et... ça
-      tourne !\</p>
+      <p>Synopsis : Deux hommes sont jetés violemment dans une pièce et... ça
+      tourne !</p>
 
-      \</td>
+      </td>
 
-      \</tr>
+      </tr>
 
-      \<tr>
+      <tr>
 
-      \<th width="300px">
+      <th width="300px">
 
-      \<a href="https\://www\.youtube.com/watch?v=hM7zCIdfq6c">\<img
-      src="https\://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">\</a>\</th>
+      <a href=" src=">
 
-      \<td>
+      <td>
 
-      \<p>Dessiner les étoiles (2005)\</p>
+      <p>Dessiner les étoiles (2005)</p>
 
-      \<p>Réalisation : Remy Hespel\</p>
+      <p>Réalisation : Remy Hespel</p>
 
-      \<p>Synopsis : Entre un passé composé de vieilles photos et de vieux
+      <p>Synopsis : Entre un passé composé de vieilles photos et de vieux
       dessins et un avenir incertain, Guillaume voit sa vie basculer. A lui de
-      faire le grand saut... à l'aveugle.\</p>
+      faire le grand saut... à l'aveugle.</p>
 
-      \</td>
+      </td>
 
-      \</tr>
+      </tr>
 
-      \</table>
+      </table>
     elementId: ''
     styles:
       self:
