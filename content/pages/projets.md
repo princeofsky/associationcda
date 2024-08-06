@@ -8,8 +8,8 @@ sections:
     title: Courts-métrages
     subtitle: ''
     text: >+
-      <figure><p><img
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">L'art
+      <ul><figure><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></figure><figure><p>L'art
       se nique (2009)</p>
 
       <p>Réalisation : Matthieu Jamet</p>
@@ -18,7 +18,7 @@ sections:
       au travers de scènes de films ou de photographies connues, recréées pour
       l'occasion.</p>
 
-      </figure>
+      </figure></ul>
 
     elementId: ''
     styles:
