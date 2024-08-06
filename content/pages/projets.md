@@ -8,7 +8,7 @@ sections:
     title: Courts-métrages
     subtitle: ''
     text: >+
-      <table><tr width=100px><th><a
+      <table border-width=none><tr width=100px><th><a
       href="https://www.dailymotion.com/video/x5j4z2c"><img
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
