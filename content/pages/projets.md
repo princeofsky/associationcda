@@ -35,6 +35,26 @@ sections:
 
       <th width="300px">
 
+      <a href="https://www.youtube.com/watch?v=OiK3YefDtVg"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
+
+      <td>
+
+      <p>I Love Red On You (2008)</p>
+
+      <p>Réalisation : Jean-Baptiste Wattiaux</p>
+
+      <p>Synopsis : Court-métrage réalisé dans le cadre d'un concours étudiant
+      sur le thème : "rouge"</p>
+
+      </td>
+
+      </tr>
+
+      <tr>
+
+      <th width="300px">
+
       <a href="https://vimeo.com/3468563"><img
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
