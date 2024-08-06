@@ -7,7 +7,7 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >+
+    text: >
       <table frame="">
 
       <tr>
@@ -31,8 +31,30 @@ sections:
 
       </tr>
 
-      </table>
+      <tr>
 
+      <th width="300px">
+
+      <a href="https://www.youtube.com/watch?v=hM7zCIdfq6c"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
+
+      <td>
+
+      <p>Dessiner les étoiles (2005)</p>
+
+      <p>Réalisation : Remy Hespel</p>
+
+      <p>Synopsis : Guillaume est âgé de vingt-cinq ans et vit chez son
+      grand-père. Un matin comme les autres, il trouve celui-ci plongé dans de
+      vieilles photos. Au cours de cette même journée, il va rencontrer un
+      aveugle et la femme de sa vie. De quoi comprendre qu'il ne doit pas rester
+      tourné vers le passé mais se tenir prêt à affronter l'avenir...</p>
+
+      </td>
+
+      </tr>
+
+      </table>
     elementId: ''
     styles:
       self:
