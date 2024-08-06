@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Courts métrages
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
