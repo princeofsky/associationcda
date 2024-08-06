@@ -8,8 +8,8 @@ sections:
     title: Courts-métrages
     subtitle: ''
     text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+      <img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg">
     elementId: ''
     styles:
       self:
