@@ -7,7 +7,7 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >
+    text: >+
       <table frame="">
 
       <tr>
@@ -80,7 +80,7 @@ sections:
 
       <td>
 
-      <p>La Machine (2007)</p>
+      <p>La Machine (2006)</p>
 
       <p>Réalisation : Remy Hespel, Christophe Miranda, Clément Morelle</p>
 
@@ -113,6 +113,7 @@ sections:
       </tr>
 
       </table>
+
     elementId: ''
     styles:
       self:
