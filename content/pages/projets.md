@@ -9,8 +9,7 @@ sections:
     subtitle: ''
     text: >
       <img
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg"
-      sizes="(max-width: 1464px) 100vw, 1464px">
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">
     elementId: ''
     styles:
       self:
