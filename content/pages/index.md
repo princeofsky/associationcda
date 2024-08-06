@@ -85,7 +85,7 @@ sections:
           - pb-16
           - pl-4
           - pr-4
-        alignItems: flex-end
+        alignItems: center
         justifyContent: center
         flexDirection: col
         borderWidth: 0
