@@ -8,8 +8,8 @@ sections:
     title: Courts-métrages
     subtitle: ''
     text: >+
-      <table><tr><a href="https://www.dailymotion.com/video/x5j4z2c"><img
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></tr>
+      <table><tr><th><a href="https://www.dailymotion.com/video/x5j4z2c"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
       <td><p>L'art se nique (2009)</p>
 
@@ -19,7 +19,7 @@ sections:
       au travers de scènes de films ou de photographies connues, recréées pour
       l'occasion.</p>
 
-      </td></table>
+      </td></tr></table>
 
     elementId: ''
     styles:
