@@ -88,7 +88,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: col
-        borderWidth: 3
+        borderWidth: 0
       title:
         textAlign: left
       text:
