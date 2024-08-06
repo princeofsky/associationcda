@@ -13,18 +13,22 @@ sections:
 
       | <img
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">
-      | L'art se nique (2009)Réalisation : Matthieu JametSynopsis : Copier,
-      est-ce créer ? Une histoire d'amour qui se raconte au travers de scènes de
-      films ou de photographies connues, recréées pour l'occasion. |
+      | **L'art se nique (2009)**
+
+      Réalisation : Matthieu Jamet
+
+      Synopsis : Copier, est-ce créer ? Une histoire d'amour qui se raconte au
+      travers de scènes de films ou de photographies connues, recréées pour
+      l'occasion. |
 
       |
-      ------------------------------------------------------------------------------------------------------------------------------
+      ----------------------------------------------------------------------------------------------------------------------------
       |
-      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
       |
 
-      |                                                                                                                               
-      |                                                                                                                                                                                                            
+      |                                                                                                                             
+      |                                                                                                                                                                                                                          
       |
 
     elementId: ''
