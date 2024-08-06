@@ -7,14 +7,14 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >+
+    text: >
       <table frame="">
 
       <tr>
 
       <th width="300px">
 
-      <a href="https://www.dailymotion.com/video/x5j4z2c"><img
+      <a href="https://www.dailymotion.com/video/k6DlOGRm5RFPio4KmmM"><img
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
       <td>
@@ -26,6 +26,26 @@ sections:
       <p>Synopsis : Copier, est-ce créer ? Une histoire d'amour qui se raconte
       au travers de scènes de films ou de photographies connues, recréées pour
       l'occasion.</p>
+
+      </td>
+
+      </tr>
+
+      <tr>
+
+      <th width="300px">
+
+      <a href="https://www.dailymotion.com/video/x5j4z2b"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
+
+      <td>
+
+      <p>Une Rencontre (2008)</p>
+
+      <p>Réalisation : Ludovic Dupont</p>
+
+      <p>Synopsis : Une fille et un garçon se rencontrent à une soirée. Ils sont
+      attirés l'un par l'autre. Ils discutent et flirtent mais...</p>
 
       </td>
 
@@ -93,7 +113,6 @@ sections:
       </tr>
 
       </table>
-
     elementId: ''
     styles:
       self:
