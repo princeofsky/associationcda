@@ -82,18 +82,32 @@ sections:
         width: narrow
         padding:
           - pt-28
-          - pb-28
+          - pb-16
           - pl-4
           - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: col
+        borderWidth: 0
       title:
         textAlign: left
       text:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-0
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: Ils nous ont fait confiance
     subtitle: ''
@@ -134,7 +148,7 @@ sections:
         width: wide
         height: auto
         padding:
-          - pt-8
+          - pt-12
           - pb-8
           - pl-4
           - pr-4
@@ -147,6 +161,19 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-0
+          - pb-0
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
