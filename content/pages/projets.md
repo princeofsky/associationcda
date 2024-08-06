@@ -44,11 +44,9 @@ sections:
 
       <p>Réalisation : Remy Hespel</p>
 
-      <p>Synopsis : Guillaume est âgé de vingt-cinq ans et vit chez son
-      grand-père. Un matin comme les autres, il trouve celui-ci plongé dans de
-      vieilles photos. Au cours de cette même journée, il va rencontrer un
-      aveugle et la femme de sa vie. De quoi comprendre qu'il ne doit pas rester
-      tourné vers le passé mais se tenir prêt à affronter l'avenir...</p>
+      <p>Synopsis : Entre un passé composé de vieilles photos et de vieux
+      dessins et un avenir incertain, Guillaume voit sa vie basculer. A lui de
+      faire le grand saut... à l'aveugle.</p>
 
       </td>
 
