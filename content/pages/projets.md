@@ -12,7 +12,7 @@ sections:
 
       <tr>
 
-      <th width="100px">
+      <th width="300px">
 
       <a href="https://www.dailymotion.com/video/x5j4z2c"><img
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
