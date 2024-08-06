@@ -7,35 +7,16 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >-
+    text: >+
       <table frame="">
 
       <tr>
 
       <th width="300px">
 
-      <a href="
+      <a href="https://www.dailymotion.com/video/k6DlOGRm5RFPio4KmmM"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
-      https://www.dailymotion.com/video/k6DlOGRm5RFPio4KmmM"><img
-
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
-
-      https://www.dailymotion.com/video/x5j4z2b"><img
-
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
-
-      https://www.youtube.com/watch?v=OiK3YefDtVg"><img
-
-      https://associationcda.wordpress.com/wp-content/uploads/2024/08/i-love-red-on-you-court-metrage-2008-hq-3386095374-e1722937722459.jpg?w=300"></a></th
-
-      https://vimeo.com/3468563"><img
-
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
-
-      https://www.youtube.com/watch?v=hM7zCIdfq6c"><img
-
-      https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th
-       src=">
       <td>
 
       <p>L'art se nique (2009)</p>
@@ -54,7 +35,8 @@ sections:
 
       <th width="300px">
 
-      <a href=" src=">
+      <a href="https://www.dailymotion.com/video/x5j4z2b"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
       <td>
 
@@ -73,7 +55,8 @@ sections:
 
       <th width="300px">
 
-      <a href=" src=">
+      <a href="https://www.youtube.com/watch?v=OiK3YefDtVg"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2024/08/i-love-red-on-you-court-metrage-2008-hq-3386095374-e1722937722459.jpg?w=300"></a></th>
 
       <td>
 
@@ -92,7 +75,8 @@ sections:
 
       <th width="300px">
 
-      <a href=" src=">
+      <a href="https://vimeo.com/3468563"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
       <td>
 
@@ -111,7 +95,8 @@ sections:
 
       <th width="300px">
 
-      <a href=" src=">
+      <a href="https://www.youtube.com/watch?v=hM7zCIdfq6c"><img
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
 
       <td>
 
@@ -128,6 +113,7 @@ sections:
       </tr>
 
       </table>
+
     elementId: ''
     styles:
       self:
