@@ -7,13 +7,14 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >+
-      <figure></figure>
+    text: >-
+      | 
 
-
-      | <img
+      <img
       src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300">
-      | **L'art se nique (2009)**
+       | 
+      L'art se nique (2009)
+
 
       Réalisation : Matthieu Jamet
 
@@ -30,7 +31,6 @@ sections:
       |                                                                                                                             
       |                                                                                                                                                                                                                          
       |
-
     elementId: ''
     styles:
       self:
