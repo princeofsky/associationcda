@@ -8,7 +8,7 @@ sections:
     title: Courts-métrages
     subtitle: ''
     text: >+
-      <table border-width="none">
+      <table border-width="0px">
 
       <tr>
 
