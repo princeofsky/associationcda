@@ -7,7 +7,7 @@ sections:
     variant: variant-a
     title: Courts-métrages
     subtitle: ''
-    text: >+
+    text: >
       <table frame="">
 
       <tr>
@@ -96,7 +96,7 @@ sections:
       <th width="300px">
 
       <a href="https://www.youtube.com/watch?v=hM7zCIdfq6c"><img
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></th>
+      src="https://associationcda.wordpress.com/wp-content/uploads/2024/08/dessiner-les-etoiles-cm-hq-358084912-e1722938164591.jpg?w=300"></a></th>
 
       <td>
 
@@ -113,7 +113,6 @@ sections:
       </tr>
 
       </table>
-
     elementId: ''
     styles:
       self:
