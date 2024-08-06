@@ -10,7 +10,7 @@ sections:
     text: >+
       <ul><figure><a href="https://www.dailymotion.com/video/x5j4z2c"><img
       width="599" height="336"
-      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?=300w"></a></figure><figure><p>L'art
+      src="https://associationcda.wordpress.com/wp-content/uploads/2019/08/artsenique01-1817097966-e1722580693716.jpg?w=300"></a></figure><figure><p>L'art
       se nique (2009)</p>
 
       <p>Réalisation : Matthieu Jamet</p>
