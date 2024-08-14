@@ -149,7 +149,7 @@ sections:
         height: auto
         padding:
           - pt-16
-          - pb-8
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
