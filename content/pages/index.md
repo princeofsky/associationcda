@@ -18,7 +18,7 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-16
+          - pt-24
           - pb-7
           - pl-4
           - pr-4
@@ -148,8 +148,8 @@ sections:
         width: wide
         height: auto
         padding:
-          - pt-12
-          - pb-8
+          - pt-16
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
@@ -232,7 +232,7 @@ sections:
           - mr-0
         padding:
           - pt-24
-          - pb-24
+          - pb-16
           - pr-4
           - pl-4
         alignItems: center
