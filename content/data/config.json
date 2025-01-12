@@ -27,9 +27,9 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/associationcda",
+                "altText": "Mastodon",
+                "label": "Mastodon",
+                "url": "https://piaille.fr/@associationcda",
                 "icon": "twitter"
             },
             {
