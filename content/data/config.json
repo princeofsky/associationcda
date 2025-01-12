@@ -28,7 +28,7 @@
             {
                 "type": "Social",
                 "altText": "Mastodon",
-                "label": "Twitter",
+                "label": "Mastodon",
                 "url": "https://twitter.com/associationcda",
                 "icon": "twitter"
             },
